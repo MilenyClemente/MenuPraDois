@@ -1,6 +1,6 @@
 # MenuPraDois
 <p>A simple menu page with HTML and CSS, made from the beggining for pratical purposes.</p>
-<a href="https://templatehomepage.web.app/" target="_blank"><p>Check the output here!</p></a>
+<p><a href="https://templatehomepage.web.app/" target="_blank">Check the output here!</a></p>
 <hr>
 Credits:
 <br>
